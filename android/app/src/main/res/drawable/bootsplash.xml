@@ -6,7 +6,7 @@
     <bitmap
       android:width="150dp"
       android:height="37dp"
-      android:src="@mipmap/logo_oni"
+      android:src="@mipmap/splash"
       android:gravity="center"
       />
   </item>

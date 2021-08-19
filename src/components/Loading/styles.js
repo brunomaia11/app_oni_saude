@@ -12,5 +12,5 @@ export const Container = styled.View`
 `;
 
 export const Load = styled.Image.attrs({
-  source: require('./../../assets/images/logo-onisaude-colorido.png'),
+  source: require('./../../assets/images/loading.gif'),
 })``;
